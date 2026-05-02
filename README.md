@@ -2,6 +2,7 @@
 ### EX. NO: 3 IMPLEMENTATION OF HILL CIPHER
 ### NAME: HARESH R
 ### REG NO: 212224040097
+### DATE: 30-04-2026
 ### AIM:
   To write a C program to implement the hill cipher substitution techniques.
 
